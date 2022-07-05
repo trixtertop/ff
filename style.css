@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+  color: inherit;
+  font-family: calibri, sans-serif;
+}
+
+.pubg {
+  display: flex;
+  align-items: flex-start;
+}
+.pubg__content {
+  line-height: 2.5rem;
+}
+.pubg__content span {
+  margin-top: 1.5625rem;
+  display: inline-block;
+}
+.pubg__content p {
+  margin-top: -10px;
+}
+
+/*# sourceMappingURL=style.css.map */
